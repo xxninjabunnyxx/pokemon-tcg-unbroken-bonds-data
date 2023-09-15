@@ -1,0 +1,96 @@
+---
+id: sm10-91
+name: Marowak
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '110'
+types:
+- Fighting
+evolvesFrom: Cubone
+attacks:
+- name: Bone Rush
+  cost:
+  - Fighting
+  convertedEnergyCost: 1
+  damage: 50×
+  text: Flip a coin until you get tails. This attack does 50 damage for each heads.
+- name: Assault Boom
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: 70+
+  text: If your opponent's Active Pokémon has a Pokémon Tool card attached to it,
+    this attack does 70 more damage.
+weaknesses:
+- type: Grass
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: sm10
+  name: Unbroken Bonds
+  series: Sun & Moon
+  printedTotal: 214
+  total: 234
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: UNB
+  releaseDate: 2019/05/03
+  updatedAt: 2021/09/01 05:37:00
+  images:
+    symbol: https://images.pokemontcg.io/sm10/symbol.png
+    logo: https://images.pokemontcg.io/sm10/logo.png
+number: '91'
+artist: kirisAki
+rarity: Rare
+flavorText: It throws bones at Mandibuzz to knock it down. It's thought that Marowak
+  is trying to avenge its parent.
+nationalPokedexNumbers:
+- 105
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/sm10/91.png
+  large: https://images.pokemontcg.io/sm10/91_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/sm10-91
+  updatedAt: 2023/09/15
+  prices:
+    reverseHolofoil:
+      low: 0.25
+      mid: 0.47
+      high: 1.14
+      market: 0.45
+      directLow: 0.45
+    normal:
+      low: 0.15
+      mid: 0.35
+      high: 1.31
+      market: 0.34
+      directLow: 0.34
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/sm10-91
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 0.46
+    lowPrice: 0.02
+    trendPrice: 0.46
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.4
+    reverseHoloLow: 0.18
+    reverseHoloTrend: 0.67
+    lowPriceExPlus: 0.02
+    avg1: 0.41
+    avg7: 0.42
+    avg30: 0.39
+    reverseHoloAvg1: 0.35
+    reverseHoloAvg7: 1.02
+    reverseHoloAvg30: 0.9

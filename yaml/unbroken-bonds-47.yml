@@ -1,0 +1,100 @@
+---
+id: sm10-47
+name: Kingler
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '130'
+types:
+- Water
+evolvesFrom: Krabby
+attacks:
+- name: Bubble Beam
+  cost:
+  - Water
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '80'
+  text: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.
+- name: Massive Rend
+  cost:
+  - Water
+  - Colorless
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 4
+  damage: '130'
+  text: ''
+weaknesses:
+- type: Grass
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 4
+set:
+  id: sm10
+  name: Unbroken Bonds
+  series: Sun & Moon
+  printedTotal: 214
+  total: 234
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: UNB
+  releaseDate: 2019/05/03
+  updatedAt: 2021/09/01 05:37:00
+  images:
+    symbol: https://images.pokemontcg.io/sm10/symbol.png
+    logo: https://images.pokemontcg.io/sm10/logo.png
+number: '47'
+artist: Shigenori Negishi
+rarity: Rare
+flavorText: Its large and hard pincer has 10,000-horsepower strength. However, being
+  so big, it is unwieldy to move.
+nationalPokedexNumbers:
+- 99
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/sm10/47.png
+  large: https://images.pokemontcg.io/sm10/47_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/sm10-47
+  updatedAt: 2023/09/15
+  prices:
+    reverseHolofoil:
+      low: 0.25
+      mid: 0.47
+      high: 1.19
+      market: 0.39
+      directLow: 0.45
+    normal:
+      low: 0.16
+      mid: 0.37
+      high: 1.31
+      market: 0.37
+      directLow: 0.41
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/sm10-47
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 0.36
+    lowPrice: 0.04
+    trendPrice: 0.36
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.54
+    reverseHoloLow: 0.3
+    reverseHoloTrend: 0.63
+    lowPriceExPlus: 0.04
+    avg1: 0.2
+    avg7: 0.32
+    avg30: 0.34
+    reverseHoloAvg1: 0.3
+    reverseHoloAvg7: 0.66
+    reverseHoloAvg30: 0.74

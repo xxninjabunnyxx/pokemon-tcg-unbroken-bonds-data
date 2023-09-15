@@ -1,0 +1,97 @@
+---
+id: sm10-60
+name: Zeraora
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '120'
+types:
+- Lightning
+attacks:
+- name: Crushing Claw
+  cost:
+  - Lightning
+  convertedEnergyCost: 1
+  damage: '20'
+  text: Discard a Special Energy from your opponent's Active Pokémon.
+- name: Discharge
+  cost:
+  - Lightning
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: 50×
+  text: Discard all Lightning Energy from this Pokémon. This attack does 50 damage
+    for each card you discarded in this way.
+weaknesses:
+- type: Fighting
+  value: "×2"
+resistances:
+- type: Metal
+  value: "-20"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: sm10
+  name: Unbroken Bonds
+  series: Sun & Moon
+  printedTotal: 214
+  total: 234
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: UNB
+  releaseDate: 2019/05/03
+  updatedAt: 2021/09/01 05:37:00
+  images:
+    symbol: https://images.pokemontcg.io/sm10/symbol.png
+    logo: https://images.pokemontcg.io/sm10/logo.png
+number: '60'
+artist: kawayoo
+rarity: Rare
+flavorText: It electrifies its claws and tears its opponents apart with them. Even
+  if they dodge its attack, they'll be electrocuted by the flying sparks.
+nationalPokedexNumbers:
+- 807
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/sm10/60.png
+  large: https://images.pokemontcg.io/sm10/60_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/sm10-60
+  updatedAt: 2023/09/15
+  prices:
+    reverseHolofoil:
+      low: 0.36
+      mid: 0.5
+      high: 1.99
+      market: 0.44
+      directLow: 0.4
+    normal:
+      low: 0.1
+      mid: 0.42
+      high: 1.25
+      market: 0.33
+      directLow: 0.26
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/sm10-60
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 0.55
+    lowPrice: 0.15
+    trendPrice: 0.48
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.72
+    reverseHoloTrend: 1.72
+    lowPriceExPlus: 0.15
+    avg1: 0.4
+    avg7: 0.55
+    avg30: 0.66
+    reverseHoloAvg1: 1.0
+    reverseHoloAvg7: 1.38
+    reverseHoloAvg30: 1.2

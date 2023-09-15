@@ -1,0 +1,88 @@
+---
+id: sm10-37
+name: Poliwag
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '60'
+types:
+- Water
+evolvesTo:
+- Poliwhirl
+attacks:
+- name: Call for Family
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: ''
+  text: Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle
+    your deck.
+weaknesses:
+- type: Grass
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: sm10
+  name: Unbroken Bonds
+  series: Sun & Moon
+  printedTotal: 214
+  total: 234
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: UNB
+  releaseDate: 2019/05/03
+  updatedAt: 2021/09/01 05:37:00
+  images:
+    symbol: https://images.pokemontcg.io/sm10/symbol.png
+    logo: https://images.pokemontcg.io/sm10/logo.png
+number: '37'
+artist: Shibuzoh.
+rarity: Common
+flavorText: Despite the danger, it wants to come up on land. So it does its best to
+  waddle along, but when an enemy finds it, it rushes back to the water.
+nationalPokedexNumbers:
+- 60
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/sm10/37.png
+  large: https://images.pokemontcg.io/sm10/37_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/sm10-37
+  updatedAt: 2023/09/15
+  prices:
+    reverseHolofoil:
+      low: 0.1
+      mid: 0.31
+      high: 1.18
+      market: 0.29
+      directLow: 0.35
+    normal:
+      low: 0.07
+      mid: 0.2
+      high: 1.29
+      market: 0.13
+      directLow: 0.15
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/sm10-37
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 0.09
+    lowPrice: 0.02
+    trendPrice: 0.1
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.3
+    reverseHoloLow: 0.04
+    reverseHoloTrend: 0.23
+    lowPriceExPlus: 0.02
+    avg1: 0.15
+    avg7: 0.1
+    avg30: 0.09
+    reverseHoloAvg1: 0.1
+    reverseHoloAvg7: 0.17
+    reverseHoloAvg30: 0.27
